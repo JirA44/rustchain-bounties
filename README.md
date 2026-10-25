@@ -1,3 +1,13 @@
+## Français
+
+Bounties pour contribuer à l’écosystème RustChain, avec des tâches de code, documentation et signalement de bugs. Exemple : choisir une tâche ouverte et suivre ses critères avant de soumettre une contribution.
+
+## English
+
+Bounties for contributing to the RustChain ecosystem, including code, documentation, and bug reports. Example: choose an open task and follow its criteria before submitting a contribution.
+
+---
+
 <div align="center">
 
 # RustChain Bounties
